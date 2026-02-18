@@ -7,3 +7,5 @@
 Seeeduino XIAO 
 екран:
 MOD-LCD-1x9
+акселометър:
+K2198 ADXL345
